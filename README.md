@@ -1,0 +1,1 @@
+These scripts are meant to enable you, the DOD Linux weeb, to use your CAC with your favorite penguin. I will do my best to keep the package names up to date, and do what I can to make the proccess as simple as possible.
